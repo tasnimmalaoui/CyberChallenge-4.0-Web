@@ -1,0 +1,1 @@
+CyberChallenge V4.0 est une application web interactive pour découvrir les robots : Tout Terrain, Junior et Suiveur de Ligne. Animations futuristes, maquettes, infos paiement et tutoriels vidéo inspirés de l’édition 3.0. Une expérience immersive à l’ISET Nabeul !
